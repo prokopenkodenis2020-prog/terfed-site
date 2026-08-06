@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Якщо ви використаєте інший домен, змініть цей рядок на ваш реальний домен.
+Sitemap: https://terfed.com/sitemap.xml
