@@ -1,4 +1,5 @@
 window.TERFED_CONFIG = {
+
   VIDEO_ID: "tsgqYKhNUSQ",
 
   YOUTUBE_CHANNEL: "https://www.youtube.com/@terfed_ua",
@@ -13,6 +14,6 @@ window.TERFED_CONFIG = {
 
   COMPANY: "ФОП Федоренко В.М.",
 
-  ADDRESS:
-    "09112, м. Біла Церква, вул. Сквирське шосе, 29, Київська область, Україна"
+  ADDRESS: "09112, м. Біла Церква, вул. Сквирське шосе, 29, Київська область, Україна"
+
 };
