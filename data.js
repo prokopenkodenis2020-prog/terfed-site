@@ -43,6 +43,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 110,
     "badge": "Навісна"
   },
+
   {
     "id": "taurus-light-trailed",
     "category": "harrows",
@@ -79,6 +80,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 110,
     "badge": "Причіпна"
   },
+
   {
     "id": "taurus-heavy-mounted",
     "category": "harrows",
@@ -123,6 +125,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 270,
     "badge": "Важка · навісна"
   },
+
   {
     "id": "taurus-heavy-trailed",
     "category": "harrows",
@@ -171,6 +174,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 360,
     "badge": "Важка · причіпна"
   },
+
   {
     "id": "bizon-mounted",
     "category": "discators",
@@ -207,6 +211,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 150,
     "badge": "Навісний"
   },
+
   {
     "id": "bizon-trailed",
     "category": "discators",
@@ -255,6 +260,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 330,
     "badge": "Причіпний"
   },
+
   {
     "id": "vepr-n01",
     "category": "cultivators",
@@ -296,6 +302,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 110,
     "badge": "Навісний"
   },
+
   {
     "id": "vepr-n02",
     "category": "cultivators",
@@ -337,6 +344,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 110,
     "badge": "Навісний"
   },
+
   {
     "id": "vepr-ns",
     "category": "cultivators",
@@ -374,6 +382,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 160,
     "badge": "Важкий · навісний"
   },
+
   {
     "id": "vepr-ps",
     "category": "cultivators",
@@ -415,6 +424,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 280,
     "badge": "Причіпний"
   },
+
   {
     "id": "vepr-68p02",
     "category": "cultivators",
@@ -448,6 +458,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 350,
     "badge": "Причіпний"
   },
+
   {
     "id": "vepr-42p",
     "category": "cultivators",
@@ -493,6 +504,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": 100,
     "badge": "Причіпний"
   },
+
   {
     "id": "zubr",
     "category": "zubr",
@@ -533,6 +545,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": null,
     "badge": "Причіпна"
   },
+
   {
     "id": "atlan",
     "category": "adapter",
@@ -569,6 +582,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": null,
     "badge": "Універсальний"
   },
+
   {
     "id": "vu3000",
     "category": "carts",
@@ -605,6 +619,7 @@ window.TERFED_PRODUCTS = [
     "powerMax": null,
     "badge": "Універсальний"
   },
+
   {
     "id": "karavan",
     "category": "carts",
