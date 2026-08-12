@@ -106,6 +106,7 @@ button{
   font-size:12px;
   font-weight:800;
   color:var(--orange);
+  white-space:nowrap;
 }
 
 .eyebrow.dark{
