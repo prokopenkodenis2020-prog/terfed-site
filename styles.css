@@ -2070,36 +2070,45 @@ button{
     display:block;
   }
 
-  .hero{
-    min-height:auto;
-  }
+.hero{
+  min-height:auto;
+}
 
-  .hero-grid{
-    min-height:auto;
-    padding:55px 0 65px;
-    gap:25px;
-  }
+.hero-grid{
+  min-height:auto;
+  padding:55px 0 65px;
+  gap:25px;
+}
 
-  .hero h1{
-    font-size:clamp(38px,11vw,50px);
-    line-height:1;
-    margin:14px 0 20px;
-    overflow-wrap:anywhere;
-  }
+.hero h1{
+  font-size:clamp(34px,10vw,50px);
+  line-height:1.05;
+  margin:14px 0 20px;
+  overflow-wrap:break-word;
+  word-break:normal;
+  hyphens:none;
+  max-width:100%;
+}
 
-  .hero-copy>p{
-    font-size:16px;
-    line-height:1.6;
-  }
+.hero-copy>p{
+  font-size:16px;
+  line-height:1.6;
+  max-width:100%;
+  overflow-wrap:break-word;
+  word-break:normal;
+}
 
-  .hero-actions{
-    flex-direction:column;
-    align-items:stretch;
-  }
+.hero-actions{
+  flex-direction:column;
+  align-items:stretch;
+}
 
-  .hero-actions .button{
-    width:100%;
-  }
+.hero-actions .button{
+  width:100%;
+  min-width:0;
+  white-space:normal;
+  text-align:center;
+}
 
   .hero-visual{
     min-height:300px;
@@ -2490,8 +2499,12 @@ button{
   }
 
   .hero h1{
-    font-size:38px;
-  }
+  font-size:clamp(32px,9.5vw,38px);
+  line-height:1.06;
+  overflow-wrap:break-word;
+  word-break:normal;
+  max-width:100%;
+}
 
   .hero-card{
     max-width:175px;
